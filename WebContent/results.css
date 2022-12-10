@@ -1,0 +1,39 @@
+.criteria {
+  display: flex;
+  height: 25px;
+  font-size: 14px;
+  align-items: stretch;
+  justify-content: space-between;
+}
+.criteria .form-select-sm {
+  font-size: 12px;
+  padding-top: 0.15rem;
+}
+.criteria label.btn {
+  border-radius: 0;
+  font-size: 0.75em;
+  padding: 3px;
+}
+select#limit {
+  border: 1px solid #ced4da;
+  width: 75px;
+}
+.settings .col-6 {
+  text-align: center;
+}
+.col-3#page {
+  text-align: right;
+}
+#offcanvasCart {
+  width: 600px;
+}
+#offcanvasCart .offcanvas-footer {
+  padding: 1rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: white;
+}
+#offcanvasCart .offcanvas-body {
+  padding-bottom: 100px;
+}

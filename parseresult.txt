@@ -1,0 +1,114 @@
+invalid genre name: Cond
+invalid genre name: Ctxxx
+invalid genre name: CnRbb
+invalid genre name: Ctcxx
+invalid genre name: Natu
+ilegel year value for movieMorgan Stewart's Coming Home: 199x
+ilegel year value for movieRaging Angels: 199x
+invalid genre name: Mystp
+invalid genre name: H0
+ilegel year value for movieKarate Kid: 199x
+ilegel year value for movieThe Eternal City: 196x
+ilegel year value for movieGangs of New York: 2001 
+invalid genre name: Ront
+invalid genre name: Sctn
+invalid genre name: Dist
+invalid genre name: CnR
+ilegel year value for movieFairy Tale: A True Story: 199x
+ilegel year value for movieJerry and Tom: 19yy
+ilegel year value for movieTaste of Cherry: 19yy
+ilegel year value for movieThe Matchmaker: 1997 
+invalid genre name: Dist
+invalid genre name: anti-Dram
+ilegel year value for movieAll is Routine: 19yy
+invalid genre name: CnR
+invalid genre name: txx
+ilegel year value for movieEl grand cavalcodos: 19yy
+invalid genre name: ram
+invalid genre name: Ctxx
+invalid genre name: Homo
+invalid genre name: H
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+ilegel year value for movieCatherine of Russia: 19yy
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: FantH* 
+invalid genre name: RFP; H* 
+invalid genre name: CnR
+invalid genre name: H**
+ilegel year value for movieStop Train 349: 199x
+ilegel year value for movieBuena Vista Social Club: 19yy
+ilegel year value for movieMulholland Drive: 19yy
+invalid genre name: Ctxx
+invalid genre name: CnR
+ilegel year value for movieSarabande: 19yy
+invalid genre name: Sati
+invalid genre name: Dicu
+invalid genre name: UnDr
+invalid genre name: Expm
+invalid genre name: Art Video
+ilegel year value for movieThe Shanghai Triad: 19yy
+invalid genre name: Cond
+invalid genre name: Ctxxx
+invalid genre name: CnRbb
+invalid genre name: Ctcxx
+invalid genre name: Natu
+ilegel year value for movieMorgan Stewart's Coming Home: 199x
+ilegel year value for movieRaging Angels: 199x
+invalid genre name: Mystp
+invalid genre name: H0
+ilegel year value for movieKarate Kid: 199x
+ilegel year value for movieThe Eternal City: 196x
+ilegel year value for movieGangs of New York: 2001 
+invalid genre name: Ront
+invalid genre name: Sctn
+invalid genre name: Dist
+invalid genre name: CnR
+ilegel year value for movieFairy Tale: A True Story: 199x
+ilegel year value for movieJerry and Tom: 19yy
+ilegel year value for movieTaste of Cherry: 19yy
+ilegel year value for movieThe Matchmaker: 1997 
+invalid genre name: Dist
+invalid genre name: anti-Dram
+ilegel year value for movieAll is Routine: 19yy
+invalid genre name: CnR
+invalid genre name: txx
+ilegel year value for movieEl grand cavalcodos: 19yy
+invalid genre name: ram
+invalid genre name: Ctxx
+invalid genre name: Homo
+invalid genre name: H
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+ilegel year value for movieCatherine of Russia: 19yy
+invalid genre name: Ctxx
+invalid genre name: Ctxx
+invalid genre name: FantH* 
+invalid genre name: RFP; H* 
+invalid genre name: CnR
+invalid genre name: H**
+ilegel year value for movieStop Train 349: 199x
+ilegel year value for movieBuena Vista Social Club: 19yy
+ilegel year value for movieMulholland Drive: 19yy
+invalid genre name: Ctxx
+invalid genre name: CnR
+ilegel year value for movieSarabande: 19yy
+invalid genre name: Sati
+invalid genre name: Dicu
+invalid genre name: UnDr
+invalid genre name: Expm
+invalid genre name: Art Video
+ilegel year value for movieThe Shanghai Triad: 19yy

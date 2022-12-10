@@ -1,0 +1,69 @@
+#side-bg {
+  background: linear-gradient(314.19deg, #cbabff 12.93%, #9ef9ff 86.67%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+  color: white;
+  flex: 1.4;
+  position: relative;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-items: stretch;
+}
+.rc-anchor-light.rc-anchor-normal {
+  transform: scale(0.8);
+  transform-origin: top left;
+}
+#side-bg * {
+  z-index: 2;
+}
+
+.bubble {
+  position: absolute;
+  z-index: 1 !important;
+}
+#top-right {
+  top: 0;
+  right: 0;
+  text-align: right;
+}
+#top-right svg {
+  width: 70%;
+  height: auto;
+}
+
+#bottom-left {
+  bottom: 0;
+  left: 0;
+  text-align: left;
+}
+#top-left {
+  top: 0;
+  left: 0;
+  text-align: left;
+}
+form legend {
+  color: #886aff;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  letter-spacing: 2px;
+  font-size: 2em;
+}
+
+#login-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4rem;
+}
+
+#submit-btn {
+  margin-top: 4px;
+  border-color: transparent;
+  background: linear-gradient(91.36deg, #a4a7ee 31.55%, #8264fc 89.1%);
+  border-radius: 30px;
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee</title>
+</head>
+<body>
+<form id="star_form">
+    <input name="star" placeholder="Star's Name" type="search">
+    <br>
+    <input name="year" placeholder="Star's Birth Year (Optional)" type="number">
+    <br>
+    <input type="submit" value="Add Star">
+</form>
+<div id="add_star_message"></div>
+<br>
+<form id="movie_form">
+    <input name="movie" placeholder="Movie's Name" type="search">
+    <br>
+    <input name="year" placeholder="Movie's Year" type="number">
+    <br>
+    <input name="director" placeholder="Movie's Director" type="search">
+    <br>
+    <input name="price" placeholder="Movie's Price" type="search">
+    <br>
+    <input name="star" placeholder="Star's Name" type="search">
+    <br>
+   
+  
+    <input name="genre" placeholder="Genre's Name" type="search">
+    <br>
+    <input type="submit" value="Add Movie">
+</form>
+<div id="add_movie_message"></div>
+<br>
+Tables
+<!-- Hardcoded for now -->
+<ul>
+    <li>movies</li>
+    <ul>
+        <li>id: varchar</li>
+        <li>title: varchar</li>
+        <li>year: integer</li>
+        <li>director: varchar</li>
+        <li>price: decimal</li>
+    </ul>
+    <li>stars</li>
+    <ul>
+        <li>id: varchar</li>
+        <li>name: varchar</li>
+        <li>birthYear: integer</li>
+    </ul>
+    <li>stars_in_movies</li>
+    <ul>
+        <li>starId: varchar</li>
+        <li>movieId: varchar</li>
+    </ul>
+    <li>genres</li>
+    <ul>
+        <li>id: integer</li>
+        <li>name: varchar</li>
+    </ul>
+    <li>genres_in_movies</li>
+    <ul>
+        <li>genreId: integer</li>
+        <li>movieId: varchar</li>
+    </ul>
+    <li>creditcards</li>
+    <ul>
+        <li>id: varchar</li>
+        <li>firstName: varchar</li>
+        <li>lastName: varchar</li>
+        <li>expiration: date</li>
+    </ul>
+    <li>ratings</li>
+    <ul>
+        <li>movieId: varchar</li>
+        <li>rating: float</li>
+        <li>numVotes: integer</li>
+    </ul>
+    <li>customers</li>
+    <ul>
+        <li>id: integer</li>
+        <li>firstName: varchar</li>
+        <li>lastName: varchar</li>
+        <li>ccId: varchar</li>
+        <li>address: varchar</li>
+        <li>email: varchar</li>
+        <li>password: varchar</li>
+    </ul>
+    <li>sales</li>
+    <ul>
+        <li>id: integer</li>
+        <li>customerId: integer</li>
+        <li>movieId: varchar</li>
+        <li>saleDate: date</li>
+        <li>qty: integer</li>
+    </ul>
+    <li>employees</li>
+    <ul>
+        <li>email: varchar</li>
+        <li>password: varchar</li>
+        <li>fullname: varchar</li>
+    </ul>
+</ul>
+</p>
+
+<!-- include jQuery-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- include our own JS file -->
+<script src="./employee.js"></script>
+
+</body>
+</html>
